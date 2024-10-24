@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working in Juntrax Solutions as Full Stack Developer.<br>I'm looking to collaborate on Software as a service (SaaS) ideas, Or building dev tools.<br>I'm currently learning about System Design, Software Development.<br>Ask me about anything, I am happy to help :)
+
+🔭 Hi, I'm [Shikhar Bhadauria](https://www.shikharbhadauria.com/) <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Hi" width="24"/>, currently working at [Juntrax Solutions](https://www.juntrax.com/) as Full Stack Developer.<br>👯 I'm looking to collaborate on Software as a service (SaaS) ideas, Or building dev tools.<br>🌱 I'm currently learning about System Design, Software Development.<br>💬 Ask me about anything, I am happy to help :)
+<br>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" alt="" height="350"/>
 
 
 ## 🌐 Socials:
